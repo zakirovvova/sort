@@ -1,0 +1,4 @@
+-s
+factory.checkerFactory.CheckerString
+-i
+factory.checkerFactory.CheckerInteger

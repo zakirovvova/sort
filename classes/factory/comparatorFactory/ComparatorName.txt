@@ -1,0 +1,4 @@
+-s
+factory.comparatorFactory.ComparatorString
+-i
+factory.comparatorFactory.ComparatorInteger
